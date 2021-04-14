@@ -1,0 +1,12 @@
+# Leetcode
+https://leetcode.com/explore/learn/card/queue-stack/232/practical-application-stack/1389/
+https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/
+
+# ABC
+abc99-c
+abc129-c
+abc149-c
+
+# Other
+https://atcoder.jp/contests/keyence2020/tasks/keyence2020_d
+https://atcoder.jp/contests/past202005-open/tasks/past202005_h

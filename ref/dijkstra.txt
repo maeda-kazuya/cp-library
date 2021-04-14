@@ -1,0 +1,5 @@
+# AOJ
+http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_12_B&lang=ja
+
+# Leetcode
+https://leetcode.com/problems/network-delay-time/
